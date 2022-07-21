@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.dll
+!*.cs
+!*.md
+!*.csproj
